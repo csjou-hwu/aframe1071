@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\wk0401\wk0404\bin\Debug\netcoreapp2.0\wk0404.deps.json
+C:\Users\USER\source\repos\wk0401\wk0404\bin\Debug\netcoreapp2.0\wk0404.runtimeconfig.json
+C:\Users\USER\source\repos\wk0401\wk0404\bin\Debug\netcoreapp2.0\wk0404.runtimeconfig.dev.json
+C:\Users\USER\source\repos\wk0401\wk0404\bin\Debug\netcoreapp2.0\wk0404.dll
+C:\Users\USER\source\repos\wk0401\wk0404\bin\Debug\netcoreapp2.0\wk0404.pdb
+C:\Users\USER\source\repos\wk0401\wk0404\obj\Debug\netcoreapp2.0\wk0404.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\wk0401\wk0404\obj\Debug\netcoreapp2.0\wk0404.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\wk0401\wk0404\obj\Debug\netcoreapp2.0\wk0404.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\wk0401\wk0404\obj\Debug\netcoreapp2.0\wk0404.AssemblyInfo.cs
+C:\Users\USER\source\repos\wk0401\wk0404\obj\Debug\netcoreapp2.0\wk0404.dll
+C:\Users\USER\source\repos\wk0401\wk0404\obj\Debug\netcoreapp2.0\wk0404.pdb
